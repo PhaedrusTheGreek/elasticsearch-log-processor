@@ -1,6 +1,6 @@
 ## What is this?
 
-This is a way to visualise Elasticsearch logs (not slow logs) in
+This is a way to visualise Elasticsearch logs (including slow logs) in
 Kibana.  See the following screenshot for what it looks like:
 
 ![Dashboard Example](Dashboard-Screenshot.png)
